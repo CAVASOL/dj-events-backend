@@ -1,10 +1,10 @@
-DJ Events (Strapi Backend)
+## DJ Events (Strapi Backend)
 
 > Strapi backend for the DJ Events website. 
 
 The Next.js frontend can be found [here](https://github.com/CAVASOL/dj-events-frontend)
 
-# Usage
+## Usage
 
 ### Using Cloudinary
 
