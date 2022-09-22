@@ -1,4 +1,4 @@
-## DJ Events (Strapi Backend)
+# DJ Events (Strapi Backend)
 
 > Strapi backend for the DJ Events website. 
 
