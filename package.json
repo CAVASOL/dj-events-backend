@@ -14,9 +14,13 @@
     "@strapi/plugin-users-permissions": "4.9.1",
     "@strapi/provider-upload-cloudinary": "^4.3.4",
 <<<<<<< HEAD
+    "@strapi/strapi": "4.11.7",
+=======
+<<<<<<< HEAD
     "@strapi/strapi": "4.9.2",
 =======
     "@strapi/strapi": "4.9.1",
+>>>>>>> master
 >>>>>>> master
     "better-sqlite3": "7.4.6",
     "slugify": "^1.6.5"
