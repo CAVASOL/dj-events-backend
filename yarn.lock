@@ -949,9 +949,13 @@
     regenerator-runtime "^0.13.4"
 
 <<<<<<< HEAD
+"@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.10.5", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.18.3", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.2", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
+=======
+<<<<<<< HEAD
 "@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.10.5", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.18.3", "@babel/runtime@^7.4.4", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.2", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
 =======
 "@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.10.5", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.18.3", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.2", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
+>>>>>>> master
 >>>>>>> master
   version "7.18.9"
   resolved "https://registry.npmjs.org/@babel/runtime/-/runtime-7.18.9.tgz"
@@ -1163,6 +1167,12 @@
     stylis "4.1.3"
 
 <<<<<<< HEAD
+"@emotion/cache@^11.10.5", "@emotion/cache@^11.4.0":
+  version "11.11.0"
+  resolved "https://registry.yarnpkg.com/@emotion/cache/-/cache-11.11.0.tgz#809b33ee6b1cb1a625fef7a45bc568ccd9b8f3ff"
+  dependencies:
+=======
+<<<<<<< HEAD
 "@emotion/babel-plugin@^11.10.6":
   version "11.10.6"
   resolved "https://registry.yarnpkg.com/@emotion/babel-plugin/-/babel-plugin-11.10.6.tgz#a68ee4b019d661d6f37dec4b8903255766925ead"
@@ -1213,11 +1223,15 @@
   version "11.11.0"
   resolved "https://registry.yarnpkg.com/@emotion/cache/-/cache-11.11.0.tgz#809b33ee6b1cb1a625fef7a45bc568ccd9b8f3ff"
   dependencies:
+>>>>>>> master
     "@emotion/memoize" "^0.8.1"
     "@emotion/sheet" "^1.2.2"
     "@emotion/utils" "^1.2.1"
     "@emotion/weak-memoize" "^0.3.1"
     stylis "4.2.0"
+<<<<<<< HEAD
+=======
+>>>>>>> master
 >>>>>>> master
 
 "@emotion/hash@^0.9.0":
@@ -1246,6 +1260,8 @@
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/@emotion/memoize/-/memoize-0.8.1.tgz#c1ddb040429c6d21d38cc945fe75c818cfb68e17"
 
+<<<<<<< HEAD
+=======
 "@emotion/react@^11.8.1":
   version "11.10.6"
   resolved "https://registry.yarnpkg.com/@emotion/react/-/react-11.10.6.tgz#dbe5e650ab0f3b1d2e592e6ab1e006e75fd9ac11"
@@ -1260,6 +1276,7 @@
     hoist-non-react-statics "^3.3.1"
 
 <<<<<<< HEAD
+>>>>>>> master
 "@emotion/react@^11.8.1":
   version "11.10.6"
   resolved "https://registry.yarnpkg.com/@emotion/react/-/react-11.10.6.tgz#dbe5e650ab0f3b1d2e592e6ab1e006e75fd9ac11"
@@ -1273,6 +1290,11 @@
     "@emotion/weak-memoize" "^0.3.0"
     hoist-non-react-statics "^3.3.1"
 
+<<<<<<< HEAD
+"@emotion/serialize@^1.1.1":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@emotion/serialize/-/serialize-1.1.2.tgz#017a6e4c9b8a803bd576ff3d52a0ea6fa5a62b51"
+=======
 "@emotion/serialize@^1.1.0":
   version "1.1.0"
   resolved "https://registry.npmjs.org/@emotion/serialize/-/serialize-1.1.0.tgz"
@@ -1292,13 +1314,19 @@
 "@emotion/serialize@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@emotion/serialize/-/serialize-1.1.1.tgz#0595701b1902feded8a96d293b26be3f5c1a5cf0"
+>>>>>>> master
   dependencies:
-    "@emotion/hash" "^0.9.0"
-    "@emotion/memoize" "^0.8.0"
-    "@emotion/unitless" "^0.8.0"
-    "@emotion/utils" "^1.2.0"
+    "@emotion/hash" "^0.9.1"
+    "@emotion/memoize" "^0.8.1"
+    "@emotion/unitless" "^0.8.1"
+    "@emotion/utils" "^1.2.1"
     csstype "^3.0.2"
 
+<<<<<<< HEAD
+"@emotion/sheet@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@emotion/sheet/-/sheet-1.2.2.tgz#d58e788ee27267a14342303e1abb3d508b6d0fec"
+=======
 "@emotion/sheet@^1.2.0":
   version "1.2.0"
   resolved "https://registry.npmjs.org/@emotion/sheet/-/sheet-1.2.0.tgz"
@@ -1311,6 +1339,7 @@
 "@emotion/sheet@^1.2.1":
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/@emotion/sheet/-/sheet-1.2.1.tgz#0767e0305230e894897cadb6c8df2c51e61a6c2c"
+>>>>>>> master
 
 "@emotion/stylis@^0.8.4":
   version "0.8.5"
@@ -1323,10 +1352,13 @@
 "@emotion/unitless@^0.8.1":
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/@emotion/unitless/-/unitless-0.8.1.tgz#182b5a4704ef8ad91bde93f7a860a88fd92c79a3"
+<<<<<<< HEAD
+=======
 
 "@emotion/use-insertion-effect-with-fallbacks@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@emotion/use-insertion-effect-with-fallbacks/-/use-insertion-effect-with-fallbacks-1.0.0.tgz#ffadaec35dbb7885bd54de3fa267ab2f860294df"
+>>>>>>> master
 
 "@emotion/use-insertion-effect-with-fallbacks@^1.0.0":
   version "1.0.0"
@@ -1345,11 +1377,14 @@
   resolved "https://registry.npmjs.org/@emotion/weak-memoize/-/weak-memoize-0.3.0.tgz"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 "@esbuild/android-arm64@0.16.17":
   version "0.16.17"
   resolved "https://registry.yarnpkg.com/@esbuild/android-arm64/-/android-arm64-0.16.17.tgz#cf91e86df127aa3d141744edafcba0abdc577d23"
 
 =======
+>>>>>>> master
 "@emotion/weak-memoize@^0.3.1":
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/@emotion/weak-memoize/-/weak-memoize-0.3.1.tgz#d0fce5d07b0620caa282b5131c297bb60f9d87e6"
@@ -1450,6 +1485,15 @@
     tslib "^2.0.1"
 
 <<<<<<< HEAD
+"@floating-ui/core@^1.3.1":
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/@floating-ui/core/-/core-1.3.1.tgz#4d795b649cc3b1cbb760d191c80dcb4353c9a366"
+
+"@floating-ui/dom@^1.0.1", "@floating-ui/dom@^1.2.1":
+  version "1.4.5"
+  resolved "https://registry.yarnpkg.com/@floating-ui/dom/-/dom-1.4.5.tgz#336dfb9870c98b471ff5802002982e489b8bd1c5"
+=======
+<<<<<<< HEAD
 "@floating-ui/core@^1.2.6":
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/@floating-ui/core/-/core-1.2.6.tgz#d21ace437cc919cdd8f1640302fa8851e65e75c0"
@@ -1457,12 +1501,15 @@
 "@floating-ui/dom@^1.0.1", "@floating-ui/dom@^1.2.1":
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/@floating-ui/dom/-/dom-1.2.6.tgz#bcf0c7bada97c20d9d1255b889f35bac838c63fe"
+>>>>>>> master
   dependencies:
-    "@floating-ui/core" "^1.2.6"
+    "@floating-ui/core" "^1.3.1"
 
 "@floating-ui/react-dom@^1.0.0":
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/@floating-ui/react-dom/-/react-dom-1.3.0.tgz#4d35d416eb19811c2b0e9271100a6aa18c1579b3"
+<<<<<<< HEAD
+=======
   dependencies:
     "@floating-ui/dom" "^1.2.1"
 
@@ -1502,6 +1549,7 @@
 "@formatjs/icu-messageformat-parser@2.0.6":
   version "2.0.6"
   resolved "https://registry.npmjs.org/@formatjs/icu-messageformat-parser/-/icu-messageformat-parser-2.0.6.tgz"
+>>>>>>> master
   dependencies:
     "@formatjs/ecma402-abstract" "1.9.3"
     "@formatjs/icu-skeleton-parser" "1.2.7"
@@ -1515,9 +1563,9 @@
     "@formatjs/icu-skeleton-parser" "1.3.18"
     tslib "^2.4.0"
 
-"@formatjs/icu-skeleton-parser@1.2.7":
-  version "1.2.7"
-  resolved "https://registry.npmjs.org/@formatjs/icu-skeleton-parser/-/icu-skeleton-parser-1.2.7.tgz"
+"@formatjs/ecma402-abstract@1.14.3":
+  version "1.14.3"
+  resolved "https://registry.yarnpkg.com/@formatjs/ecma402-abstract/-/ecma402-abstract-1.14.3.tgz#6428f243538a11126180d121ce8d4b2f17465738"
   dependencies:
     "@formatjs/ecma402-abstract" "1.9.3"
     tslib "^2.1.0"
@@ -1529,9 +1577,9 @@
     "@formatjs/ecma402-abstract" "1.14.3"
     tslib "^2.4.0"
 
-"@formatjs/intl-displaynames@5.1.5":
-  version "5.1.5"
-  resolved "https://registry.npmjs.org/@formatjs/intl-displaynames/-/intl-displaynames-5.1.5.tgz"
+"@formatjs/fast-memoize@2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@formatjs/fast-memoize/-/fast-memoize-2.0.1.tgz#f15aaa73caad5562899c69bdcad8db82adcd3b0b"
   dependencies:
     "@formatjs/ecma402-abstract" "1.9.3"
     tslib "^2.1.0"
@@ -1544,9 +1592,9 @@
     "@formatjs/intl-localematcher" "0.2.32"
     tslib "^2.4.0"
 
-"@formatjs/intl-listformat@6.2.5":
-  version "6.2.5"
-  resolved "https://registry.npmjs.org/@formatjs/intl-listformat/-/intl-listformat-6.2.5.tgz"
+"@formatjs/icu-messageformat-parser@2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@formatjs/icu-messageformat-parser/-/icu-messageformat-parser-2.3.0.tgz#8e8fd577c3e39454ef14bba4963f2e1d5f2cc46c"
   dependencies:
     "@formatjs/ecma402-abstract" "1.9.3"
     tslib "^2.1.0"
@@ -1565,9 +1613,9 @@
   dependencies:
     tslib "^2.4.0"
 
-"@formatjs/intl@1.13.0":
-  version "1.13.0"
-  resolved "https://registry.npmjs.org/@formatjs/intl/-/intl-1.13.0.tgz"
+"@formatjs/icu-skeleton-parser@1.3.18":
+  version "1.3.18"
+  resolved "https://registry.yarnpkg.com/@formatjs/icu-skeleton-parser/-/icu-skeleton-parser-1.3.18.tgz#7aed3d60e718c8ad6b0e64820be44daa1e29eeeb"
   dependencies:
     "@formatjs/ecma402-abstract" "1.9.3"
     "@formatjs/fast-memoize" "1.1.1"
@@ -1589,6 +1637,8 @@
     intl-messageformat "10.3.3"
     tslib "^2.4.0"
 
+<<<<<<< HEAD
+=======
 "@fortawesome/fontawesome-common-types@^0.2.36":
   version "0.2.36"
   resolved "https://registry.npmjs.org/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.36.tgz"
@@ -1644,6 +1694,7 @@
     "@formatjs/ecma402-abstract" "1.14.3"
     tslib "^2.4.0"
 
+>>>>>>> master
 "@formatjs/intl-displaynames@6.2.6":
   version "6.2.6"
   resolved "https://registry.yarnpkg.com/@formatjs/intl-displaynames/-/intl-displaynames-6.2.6.tgz#6bc02fe0bf6571391aac0e01e74ecbf38542ff32"
@@ -2160,6 +2211,15 @@
     react-select "5.7.0"
 
 <<<<<<< HEAD
+"@strapi/icons@1.6.6":
+  version "1.6.6"
+  resolved "https://registry.yarnpkg.com/@strapi/icons/-/icons-1.6.6.tgz#e5259cdb6fc2425e926dfb0afc6e7c72748f1bab"
+
+"@strapi/logger@4.9.1":
+  version "4.9.1"
+  resolved "https://registry.yarnpkg.com/@strapi/logger/-/logger-4.9.1.tgz#43bd25b26c35a2bf23f17cd47222c1ef64b2b593"
+=======
+<<<<<<< HEAD
 "@strapi/helper-plugin@4.9.2":
   version "4.9.2"
   resolved "https://registry.yarnpkg.com/@strapi/helper-plugin/-/helper-plugin-4.9.2.tgz#15ab8db08821cdbfab6768d3b60660590b54f3d3"
@@ -2190,6 +2250,7 @@
 "@strapi/logger@4.9.1":
   version "4.9.1"
   resolved "https://registry.yarnpkg.com/@strapi/logger/-/logger-4.9.1.tgz#43bd25b26c35a2bf23f17cd47222c1ef64b2b593"
+>>>>>>> master
 >>>>>>> master
   dependencies:
     lodash "4.17.21"
@@ -2741,12 +2802,6 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-transition-group@^4.4.0":
-  version "4.4.5"
-  resolved "https://registry.yarnpkg.com/@types/react-transition-group/-/react-transition-group-4.4.5.tgz#aae20dcf773c5aa275d5b9f7cdbca638abc5e416"
-  dependencies:
-    "@types/react" "*"
-
 "@types/react@*":
   version "18.0.17"
   resolved "https://registry.npmjs.org/@types/react/-/react-18.0.17.tgz"
@@ -3069,9 +3124,13 @@ ajv-keywords@^5.0.0:
     fast-deep-equal "^3.1.3"
 
 <<<<<<< HEAD
+ajv@^6.12.5:
+=======
+<<<<<<< HEAD
 ajv@^6.12.3, ajv@^6.12.5:
 =======
 ajv@^6.12.5:
+>>>>>>> master
 >>>>>>> master
   version "6.12.6"
   resolved "https://registry.npmjs.org/ajv/-/ajv-6.12.6.tgz"
@@ -3201,6 +3260,8 @@ asn1.js@^5.3.0:
     safer-buffer "^2.1.0"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 asn1@~0.2.3:
   version "0.2.6"
   resolved "https://registry.npmjs.org/asn1/-/asn1-0.2.6.tgz"
@@ -3212,6 +3273,7 @@ assert-plus@1.0.0, assert-plus@^1.0.0:
   resolved "https://registry.npmjs.org/assert-plus/-/assert-plus-1.0.0.tgz"
 
 =======
+>>>>>>> master
 >>>>>>> master
 assign-symbols@^1.0.0:
   version "1.0.0"
@@ -3235,6 +3297,21 @@ atob@^2.1.2:
   version "2.1.2"
   resolved "https://registry.npmjs.org/atob/-/atob-2.1.2.tgz"
 
+<<<<<<< HEAD
+axios@1.3.4:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.3.4.tgz#f5760cefd9cfb51fd2481acf88c05f67c4523024"
+  dependencies:
+    follow-redirects "^1.15.0"
+    form-data "^4.0.0"
+    proxy-from-env "^1.1.0"
+
+babel-loader@^9.1.2:
+  version "9.1.3"
+  resolved "https://registry.yarnpkg.com/babel-loader/-/babel-loader-9.1.3.tgz#3d0e01b4e69760cc694ee306fe16d358aa1c6f9a"
+  dependencies:
+    find-cache-dir "^4.0.0"
+=======
 <<<<<<< HEAD
 aws-sign2@~0.7.0:
   version "0.7.0"
@@ -3277,6 +3354,7 @@ babel-loader@^9.1.2:
   resolved "https://registry.yarnpkg.com/babel-loader/-/babel-loader-9.1.3.tgz#3d0e01b4e69760cc694ee306fe16d358aa1c6f9a"
   dependencies:
     find-cache-dir "^4.0.0"
+>>>>>>> master
 >>>>>>> master
     schema-utils "^4.0.0"
 
@@ -3614,6 +3692,10 @@ caniuse-lite@^1.0.30001370:
 
 caniuse-lite@^1.0.30001449:
 <<<<<<< HEAD
+  version "1.0.30001517"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001517.tgz#90fabae294215c3495807eb24fc809e11dc2f0a8"
+=======
+<<<<<<< HEAD
   version "1.0.30001480"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001480.tgz#9bbd35ee44c2480a1e3a3b9f4496f5066817164a"
 
@@ -3623,6 +3705,7 @@ caseless@~0.12.0:
 =======
   version "1.0.30001515"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001515.tgz#418aefeed9d024cd3129bfae0ccc782d4cb8f12b"
+>>>>>>> master
 >>>>>>> master
 
 chalk@4.1.2, chalk@^4.1.0, chalk@^4.1.1, chalk@^4.1.2:
@@ -3904,9 +3987,13 @@ colorspace@1.1.x:
     text-hex "1.0.x"
 
 <<<<<<< HEAD
+combined-stream@^1.0.8:
+=======
+<<<<<<< HEAD
 combined-stream@^1.0.6, combined-stream@^1.0.8, combined-stream@~1.0.6:
 =======
 combined-stream@^1.0.8:
+>>>>>>> master
 >>>>>>> master
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/combined-stream/-/combined-stream-1.0.8.tgz#c3d45a8b34fd730631a110a8a2520682b31d5a7f"
@@ -3931,14 +4018,21 @@ commander@^2.20.0:
   resolved "https://registry.npmjs.org/commander/-/commander-2.20.3.tgz"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 commander@^9.1.0, commander@^9.4.1:
   version "9.5.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-9.5.0.tgz#bc08d1eb5cedf7ccb797a96199d41c7bc3e60d30"
 =======
+>>>>>>> master
 commander@^9.1.0:
   version "9.4.0"
   resolved "https://registry.npmjs.org/commander/-/commander-9.4.0.tgz"
 >>>>>>> master
+
+commander@^9.4.1:
+  version "9.5.0"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-9.5.0.tgz#bc08d1eb5cedf7ccb797a96199d41c7bc3e60d30"
 
 commander@^9.4.1:
   version "9.5.0"
@@ -4089,11 +4183,14 @@ core-js@3.6.5:
   resolved "https://registry.npmjs.org/core-js/-/core-js-3.6.5.tgz"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 core-util-is@1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.2.tgz"
 
 =======
+>>>>>>> master
 >>>>>>> master
 core-util-is@^1.0.2, core-util-is@~1.0.0:
   version "1.0.3"
@@ -4908,6 +5005,11 @@ finalhandler@1.2.0:
     unpipe "~1.0.0"
 
 <<<<<<< HEAD
+find-cache-dir@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/find-cache-dir/-/find-cache-dir-4.0.0.tgz#a30ee0448f81a3990708f6453633c733e2f6eec2"
+=======
+<<<<<<< HEAD
 find-cache-dir@^3.3.2:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/find-cache-dir/-/find-cache-dir-3.3.2.tgz#b30c5b6eff0730731aea9bbd9dbecbd80256d64b"
@@ -4915,6 +5017,7 @@ find-cache-dir@^3.3.2:
 find-cache-dir@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/find-cache-dir/-/find-cache-dir-4.0.0.tgz#a30ee0448f81a3990708f6453633c733e2f6eec2"
+>>>>>>> master
 >>>>>>> master
   dependencies:
     common-path-prefix "^3.0.0"
@@ -4973,9 +5076,13 @@ fn.name@1.x.x:
   resolved "https://registry.npmjs.org/fn.name/-/fn.name-1.1.0.tgz"
 
 <<<<<<< HEAD
+follow-redirects@^1.0.0:
+=======
+<<<<<<< HEAD
 follow-redirects@^1.0.0, follow-redirects@^1.14.7:
 =======
 follow-redirects@^1.0.0:
+>>>>>>> master
 >>>>>>> master
   version "1.15.1"
   resolved "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.15.1.tgz"
@@ -5014,6 +5121,8 @@ form-data@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/form-data/-/form-data-4.0.0.tgz#93919daeaf361ee529584b9b31664dc12c9fa452"
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
   dependencies:
     asynckit "^0.4.0"
     combined-stream "^1.0.8"
@@ -5023,6 +5132,7 @@ form-data@~2.3.2:
   version "2.3.3"
   resolved "https://registry.npmjs.org/form-data/-/form-data-2.3.3.tgz"
 =======
+>>>>>>> master
 >>>>>>> master
   dependencies:
     asynckit "^0.4.0"
@@ -5731,6 +5841,8 @@ intl-messageformat@10.3.3:
   version "10.3.3"
   resolved "https://registry.yarnpkg.com/intl-messageformat/-/intl-messageformat-10.3.3.tgz#576798d31c9f8d90f9beadaa5a3878b8d30177a2"
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
   dependencies:
     "@formatjs/ecma402-abstract" "1.14.3"
     "@formatjs/fast-memoize" "2.0.1"
@@ -5741,6 +5853,7 @@ intl-messageformat@9.6.18:
   version "9.6.18"
   resolved "https://registry.npmjs.org/intl-messageformat/-/intl-messageformat-9.6.18.tgz"
 =======
+>>>>>>> master
 >>>>>>> master
   dependencies:
     "@formatjs/ecma402-abstract" "1.14.3"
@@ -5974,9 +6087,13 @@ is-type-of@^1.2.1:
     isstream "~0.1.2"
 
 <<<<<<< HEAD
+is-typedarray@^1.0.0:
+=======
+<<<<<<< HEAD
 is-typedarray@^1.0.0, is-typedarray@~1.0.0:
 =======
 is-typedarray@^1.0.0:
+>>>>>>> master
 >>>>>>> master
   version "1.0.0"
   resolved "https://registry.npmjs.org/is-typedarray/-/is-typedarray-1.0.0.tgz"
@@ -6086,6 +6203,8 @@ json-schema-traverse@^1.0.0:
   resolved "https://registry.npmjs.org/json-schema-traverse/-/json-schema-traverse-1.0.0.tgz"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 json-schema@0.4.0:
   version "0.4.0"
   resolved "https://registry.npmjs.org/json-schema/-/json-schema-0.4.0.tgz"
@@ -6095,6 +6214,7 @@ json-stringify-safe@~5.0.1:
   resolved "https://registry.npmjs.org/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz"
 
 =======
+>>>>>>> master
 >>>>>>> master
 json5@^2.1.2, json5@^2.2.0, json5@^2.2.2:
   version "2.2.3"
@@ -6118,6 +6238,8 @@ jsonwebtoken@9.0.0:
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/jsonwebtoken/-/jsonwebtoken-9.0.0.tgz#d0faf9ba1cc3a56255fe49c0961a67e520c1926d"
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
   dependencies:
     jws "^3.2.2"
     lodash "^4.17.21"
@@ -6128,6 +6250,7 @@ jsonwebtoken@^8.1.0:
   version "8.5.1"
   resolved "https://registry.npmjs.org/jsonwebtoken/-/jsonwebtoken-8.5.1.tgz"
 =======
+>>>>>>> master
 >>>>>>> master
   dependencies:
     jws "^3.2.2"
@@ -6313,10 +6436,6 @@ koa-static@5.0.0:
   dependencies:
     debug "^3.1.0"
     koa-send "^5.0.0"
-
-koa2-ratelimit@^1.1.2:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/koa2-ratelimit/-/koa2-ratelimit-1.1.3.tgz#9f839c4f5533151aa4d5b8d11381a9a07854f0ff"
 
 koa2-ratelimit@^1.1.2:
   version "1.1.3"
@@ -6578,9 +6697,13 @@ mailcomposer@3.12.0:
     libmime "2.1.0"
 
 <<<<<<< HEAD
+make-dir@^3.0.0:
+=======
+<<<<<<< HEAD
 make-dir@^3.0.0, make-dir@^3.0.2:
 =======
 make-dir@^3.0.0:
+>>>>>>> master
 >>>>>>> master
   version "3.1.0"
   resolved "https://registry.npmjs.org/make-dir/-/make-dir-3.1.0.tgz"
@@ -6768,6 +6891,8 @@ mini-css-extract-plugin@2.7.2:
     "@babel/runtime" "^7.12.1"
     tiny-warning "^1.0.3"
 
+<<<<<<< HEAD
+=======
 mini-css-extract-plugin@2.7.2:
   version "2.7.2"
   resolved "https://registry.yarnpkg.com/mini-css-extract-plugin/-/mini-css-extract-plugin-2.7.2.tgz#e049d3ea7d3e4e773aad585c6cb329ce0c7b72d7"
@@ -6776,6 +6901,7 @@ mini-css-extract-plugin@2.7.2:
 >>>>>>> master
     schema-utils "^4.0.0"
 
+>>>>>>> master
 minimalistic-assert@^1.0.0, minimalistic-assert@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/minimalistic-assert/-/minimalistic-assert-1.0.1.tgz"
@@ -7430,11 +7556,14 @@ pause@0.0.1:
   resolved "https://registry.npmjs.org/pause/-/pause-0.0.1.tgz"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.npmjs.org/performance-now/-/performance-now-2.1.0.tgz"
 
 =======
+>>>>>>> master
 >>>>>>> master
 pg-connection-string@2.5.0:
   version "2.5.0"
@@ -7584,9 +7713,13 @@ process-nextick-args@~2.0.0:
   resolved "https://registry.npmjs.org/process-nextick-args/-/process-nextick-args-2.0.1.tgz"
 
 <<<<<<< HEAD
+prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2, prop-types@^15.8.1:
+=======
+<<<<<<< HEAD
 prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2, prop-types@^15.8.1:
 =======
 prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2, prop-types@^15.8.1:
+>>>>>>> master
 >>>>>>> master
   version "15.8.1"
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
@@ -7624,11 +7757,14 @@ proxy-from-env@^1.0.0, proxy-from-env@^1.1.0:
   resolved "https://registry.npmjs.org/proxy-from-env/-/proxy-from-env-1.1.0.tgz"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 psl@^1.1.28:
   version "1.9.0"
   resolved "https://registry.npmjs.org/psl/-/psl-1.9.0.tgz"
 
 =======
+>>>>>>> master
 >>>>>>> master
 pump@^3.0.0:
   version "3.0.0"
@@ -7638,9 +7774,13 @@ pump@^3.0.0:
     once "^1.3.1"
 
 <<<<<<< HEAD
+punycode@^2.1.0:
+=======
+<<<<<<< HEAD
 punycode@^2.1.0, punycode@^2.1.1:
 =======
 punycode@^2.1.0:
+>>>>>>> master
 >>>>>>> master
   version "2.1.1"
   resolved "https://registry.npmjs.org/punycode/-/punycode-2.1.1.tgz"
@@ -7666,6 +7806,8 @@ qs@6.10.3:
     side-channel "^1.0.4"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 qs@6.11.1, qs@^6.10.2, qs@^6.10.3, qs@^6.4.0, qs@^6.9.6:
   version "6.11.1"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.11.1.tgz#6c29dff97f0c0060765911ba65cbc9764186109f"
@@ -7676,6 +7818,7 @@ qs@~6.5.2:
   version "6.5.3"
   resolved "https://registry.npmjs.org/qs/-/qs-6.5.3.tgz"
 =======
+>>>>>>> master
 qs@6.11.1:
   version "6.11.1"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.11.1.tgz#6c29dff97f0c0060765911ba65cbc9764186109f"
@@ -7800,21 +7943,6 @@ react-intl@6.3.2:
     intl-messageformat "10.3.3"
     tslib "^2.4.0"
 
-react-intl@6.3.2:
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/react-intl/-/react-intl-6.3.2.tgz#0816f0943690dbc6186ab1a2968eb378ba9c99f7"
-  dependencies:
-    "@formatjs/ecma402-abstract" "1.14.3"
-    "@formatjs/icu-messageformat-parser" "2.3.0"
-    "@formatjs/intl" "2.6.9"
-    "@formatjs/intl-displaynames" "6.2.6"
-    "@formatjs/intl-listformat" "7.1.9"
-    "@types/hoist-non-react-statics" "^3.3.1"
-    "@types/react" "16 || 17 || 18"
-    hoist-non-react-statics "^3.3.2"
-    intl-messageformat "10.3.3"
-    tslib "^2.4.0"
-
 react-is@^16.13.1, react-is@^16.6.0, react-is@^16.7.0:
   version "16.13.1"
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
@@ -7847,6 +7975,11 @@ react-redux@8.0.5:
     use-sync-external-store "^1.0.0"
 
 <<<<<<< HEAD
+react-refresh@0.14.0:
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"
+=======
+<<<<<<< HEAD
 react-redux@8.0.5:
   version "8.0.5"
   resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-8.0.5.tgz#e5fb8331993a019b8aaf2e167a93d10af469c7bd"
@@ -7857,6 +7990,7 @@ react-redux@8.0.5:
     hoist-non-react-statics "^3.3.2"
     react-is "^18.0.0"
     use-sync-external-store "^1.0.0"
+>>>>>>> master
 
 =======
 >>>>>>> master
@@ -7889,6 +8023,11 @@ react-router-dom@5.3.4:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
+<<<<<<< HEAD
+react-router@5.3.4:
+  version "5.3.4"
+  resolved "https://registry.yarnpkg.com/react-router/-/react-router-5.3.4.tgz#8ca252d70fcc37841e31473c7a151cf777887bb5"
+=======
 react-router@5.2.0:
   version "5.2.0"
   resolved "https://registry.npmjs.org/react-router/-/react-router-5.2.0.tgz"
@@ -7926,6 +8065,7 @@ react-router@5.3.4:
   version "5.3.4"
   resolved "https://registry.yarnpkg.com/react-router/-/react-router-5.3.4.tgz#8ca252d70fcc37841e31473c7a151cf777887bb5"
 >>>>>>> master
+>>>>>>> master
   dependencies:
     "@babel/runtime" "^7.12.13"
     history "^4.9.0"
@@ -7936,20 +8076,6 @@ react-router@5.3.4:
     react-is "^16.6.0"
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
-
-react-select@5.7.0:
-  version "5.7.0"
-  resolved "https://registry.yarnpkg.com/react-select/-/react-select-5.7.0.tgz#82921b38f1fcf1471a0b62304da01f2896cd8ce6"
-  dependencies:
-    "@babel/runtime" "^7.12.0"
-    "@emotion/cache" "^11.4.0"
-    "@emotion/react" "^11.8.1"
-    "@floating-ui/dom" "^1.0.1"
-    "@types/react-transition-group" "^4.4.0"
-    memoize-one "^6.0.0"
-    prop-types "^15.6.0"
-    react-transition-group "^4.3.0"
-    use-isomorphic-layout-effect "^1.1.2"
 
 react-select@5.7.0:
   version "5.7.0"
@@ -8040,6 +8166,8 @@ rechoir@^0.8.0:
     resolve "^1.20.0"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 redux-saga@^0.16.0:
   version "0.16.2"
   resolved "https://registry.npmjs.org/redux-saga/-/redux-saga-0.16.2.tgz"
@@ -8055,6 +8183,7 @@ redux@^4.1.2, redux@^4.2.1:
   dependencies:
     "@babel/runtime" "^7.9.2"
 
+>>>>>>> master
 redux@^4.1.2, redux@^4.2.1:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/redux/-/redux-4.2.1.tgz#c08f4306826c49b5e9dc901dee0452ea8fce6197"
@@ -8348,9 +8477,13 @@ safe-buffer@5.1.2, safe-buffer@~5.1.0, safe-buffer@~5.1.1:
   resolved "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz"
 
 <<<<<<< HEAD
+safe-buffer@5.2.1, safe-buffer@>=5.1.0, safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@~5.2.0:
+=======
+<<<<<<< HEAD
 safe-buffer@5.2.1, safe-buffer@>=5.1.0, safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@^5.1.2, safe-buffer@~5.2.0:
 =======
 safe-buffer@5.2.1, safe-buffer@>=5.1.0, safe-buffer@^5.0.1, safe-buffer@^5.1.0, safe-buffer@~5.2.0:
+>>>>>>> master
 >>>>>>> master
   version "5.2.1"
   resolved "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.2.1.tgz"
@@ -8449,6 +8582,12 @@ semver@^7.3.5, semver@^7.3.8:
 semver@^7.3.5, semver@^7.3.8:
   version "7.5.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.5.0.tgz#ed8c5dc8efb6c629c88b23d41dc9bf40c1d96cd0"
+  dependencies:
+    lru-cache "^6.0.0"
+
+semver@^7.3.5, semver@^7.3.8:
+  version "7.5.4"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.5.4.tgz#483986ec4ed38e1c6c48c34894a9182dbff68a6e"
   dependencies:
     lru-cache "^6.0.0"
 
@@ -8887,10 +9026,13 @@ stylis@4.1.3:
 stylis@4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/stylis/-/stylis-4.2.0.tgz#79daee0208964c8fe695a42fcffcac633a211a51"
+<<<<<<< HEAD
+=======
 
 stylis@4.1.3:
   version "4.1.3"
   resolved "https://registry.yarnpkg.com/stylis/-/stylis-4.1.3.tgz#fd2fbe79f5fed17c55269e16ed8da14c84d069f7"
+>>>>>>> master
 
 supports-color@^2.0.0:
   version "2.0.0"
@@ -9327,11 +9469,14 @@ uuid@9.0.0:
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-9.0.0.tgz#592f550650024a38ceb0c562f2f6aa435761efb5"
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 
 uuid@^3.3.2:
   version "3.4.0"
   resolved "https://registry.npmjs.org/uuid/-/uuid-3.4.0.tgz"
 =======
+>>>>>>> master
 >>>>>>> master
 
 uuid@^8.3.2:
@@ -9353,6 +9498,8 @@ vary@^1.1.2, vary@~1.1.2:
   resolved "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz"
 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 verror@1.10.0:
   version "1.10.0"
   resolved "https://registry.npmjs.org/verror/-/verror-1.10.0.tgz"
@@ -9362,6 +9509,7 @@ verror@1.10.0:
     extsprintf "^1.2.0"
 
 =======
+>>>>>>> master
 >>>>>>> master
 vm2@^3.9.8:
   version "3.9.19"
@@ -9600,8 +9748,8 @@ winston@3.3.3:
     winston-transport "^4.4.0"
 
 word-wrap@~1.2.3:
-  version "1.2.3"
-  resolved "https://registry.npmjs.org/word-wrap/-/word-wrap-1.2.3.tgz"
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.4.tgz#cb4b50ec9aca570abd1f52f33cd45b6c61739a9f"
 
 wordwrap@^1.0.0:
   version "1.0.0"
